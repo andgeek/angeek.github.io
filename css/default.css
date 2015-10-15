@@ -24,25 +24,25 @@ body, html {
     margin: 0 auto;
 }
 
-.element.style {
+.experience {
     margin: 0;
     padding: 0;
     width: 100%;
 }
 
 .main,
-.container > header {
+.experience > header {
     width: 90%;
     max-width: 69em;
     margin: 0 auto;
     padding: 0 1.875em 3.125em;
 }
 
-.container > header {
+.experience > header {
     padding: 2.875em 1.875em 1.875em;
 }
 
-.container > header h1 {
+.experience > header h1 {
     font-size: 2.125em;
     line-height: 1.3;
     margin: 0;
@@ -50,7 +50,7 @@ body, html {
     font-weight: 400;
 }
 
-.container > header span {
+.experience > header span {
     display: block;
     font-weight: 700;
     text-transform: uppercase;
@@ -58,11 +58,11 @@ body, html {
     padding: 0 0 0.6em 0.1em;
 }
 
-.container > header nav {
+.experience > header nav {
     float: right;
 }
 
-.container > header nav a {
+.experience > header nav a {
     display: block;
     float: left;
     position: relative;
@@ -76,7 +76,7 @@ body, html {
     text-indent: -8000px;
 }
 
-.container > header nav a:after {
+.experience > header nav a:after {
     content: attr(data-info);
     color: #47a3da;
     position: absolute;
@@ -88,11 +88,11 @@ body, html {
     pointer-events: none;
 }
 
-.container > header nav a:hover:after {
+.experience > header nav a:hover:after {
     opacity: 1;
 }
 
-.container > header nav a:hover {
+.experience > header nav a:hover {
     background: #47a3da;
 }
 
@@ -114,7 +114,7 @@ body, html {
     padding-left: 8px;
 }
 
-.container > header nav a:hover:before {
+.experience > header nav a:hover:before {
     color: #fff;
 }
 
