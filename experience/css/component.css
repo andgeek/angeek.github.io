@@ -241,7 +241,8 @@ footer a:hover{
 	list-style-type: disc;
 }
 header{
-	background: #6ca8fb;
+	background: #0000ff;
+	opacity: 0.7;
 	text-align: center;
 	height: 520px;
 	min-width: 100%;
