@@ -39,6 +39,7 @@
 .cbp_tmtimeline > li .cbp_tmtime span {
 	display: block;
 	text-align: right;
+	float: right;
 }
 
 .cbp_tmtimeline > li .cbp_tmtime span:first-child {
