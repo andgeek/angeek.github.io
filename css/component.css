@@ -157,6 +157,7 @@
 
 	.cbp_tmtimeline > li .cbp_tmtime span {
 		text-align: left;
+		float: right;
 	}
 
 	.cbp_tmtimeline > li .cbp_tmlabel {
